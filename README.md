@@ -28,7 +28,7 @@ Interessen: Game Development | Server & Infrastruktur
 - 🎓 Azubi Fachinformatiker für Anwendungsentwicklung  
 - 🖥️ Fokus: **Spieleprogrammierung (C/C++), Server & Infrastruktur**  
 - 🔧 Privat: Homeserver mit **LVM**, **Nextcloud**, **Pi-hole**  
-- ⚙️ Interessen: **Game Engines, Cheats (Singleplayer-Fun), Systemnähe**   
+- ⚙️ Interessen: **Game Engines, Gaming, Reverse Engineering**   
 
 ---
 
